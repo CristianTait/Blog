@@ -1,5 +1,6 @@
 # Blog Project
 
+Estoy trabajando en el backend del proyecto. 
 Este proyecto es un blog desarrollado con Node.js y MongoDB. Permite a los usuarios registrarse, iniciar sesión, crear publicaciones y realizar operaciones CRUD en las mismas.
 
 ## Requisitos previos
@@ -15,8 +16,7 @@ bash
    git clone https://github.com/tu-usuario/blog-project.git
 Instala las dependencias:
 
-bash
-Copy code
+
 cd blog-project
 npm install
 Configura la conexión a la base de datos:
@@ -25,8 +25,6 @@ Abre el archivo config.js en la carpeta config.
 Reemplaza la variable mongoURI con tu propia URI de conexión a MongoDB.
 Inicia la aplicación:
 
-bash
-Copy code
 npm start
 Abre tu navegador y visita http://localhost:3000 para acceder al blog.
 
