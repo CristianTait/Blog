@@ -12,8 +12,8 @@ Este proyecto es un blog desarrollado con Node.js y MongoDB. Permite a los usuar
 
 1. Clona este repositorio:
 
-bash
-   git clone https://github.com/tu-usuario/blog-project.git
+
+git clone https://github.com/tu-usuario/blog-project.git
 Instala las dependencias:
 
 
@@ -47,6 +47,3 @@ Licencia
 Este proyecto está bajo la Licencia MIT. Puedes ver el archivo LICENSE para más detalles.
 
 
-Recuerda reemplazar la información relevante, como la URI de conexión a MongoDB y las funcionalidades específicas de tu proyecto. Además, asegúrate de agregar cualquier sección adicional que desees incluir en el README.md, como instrucciones detalladas, capturas de pantalla, ejemplos de código, etc.
-
-Espero que esto te ayude a crear tu archivo README.md. ¡Buena suerte con tu 
