@@ -8,7 +8,7 @@ Diseño del sitio web:
 
 Crea una estructura de carpetas para organizar tus archivos.
 
-Crea el archivo HTML principal para la estructura básica del sitio utilizando las etiquetas HTML, como <h1>, <p>, <ul>, <li>.
+
 
 Aplica estilos CSS para darle un aspecto visual atractivo.
 
